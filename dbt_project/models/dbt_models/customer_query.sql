@@ -1,0 +1,1 @@
+select * from TEST_SCHEMA.CUSTOMER limit 100
